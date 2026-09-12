@@ -2,6 +2,6 @@ fastai==2.7.18
 voila
 ipywidgets
 pillow
-torch
+torch==2.11.0
 torchvision
 fasttransform
