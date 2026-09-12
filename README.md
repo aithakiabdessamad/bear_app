@@ -2,7 +2,7 @@
 
 An educational deep learning project for classifying bear images using a trained neural network.
 
-## 📌 Project Description
+ Project Description
 
 This project was developed by **ABDESSAMAD AIT HAKI** as a personal extension of a Deep Learning practical session (TD) carried out in class.
 
@@ -17,7 +17,7 @@ The model provides:
 - The confidence score
 - The top 3 predictions with their probabilities
 
-## 🧠 Bear Classes
+ Bear Classes
 
 The extended model can classify images into three categories:
 
@@ -25,7 +25,7 @@ The extended model can classify images into three categories:
 - 🐻 Grizzly bear
 - 🧸 Teddy bear
 
-## 🛠️ Technologies
+ Technologies
 
 - Python
 - Fastai
@@ -34,7 +34,7 @@ The extended model can classify images into three categories:
 - Jupyter Notebook
 - Deep Learning
 
-## 🚀 How to Use
+ How to Use
 
 1. Open `bear_app_clean.ipynb` in Google Colab or Jupyter Notebook.
 2. Install the required dependencies from `requirements.txt`.
@@ -44,7 +44,7 @@ The extended model can classify images into three categories:
 6. Click **CLASSIFY**.
 7. The application displays the predicted class and confidence score.
 
-## 📂 Project Structure
+ Project Structure
 
 ```text
 Bear Classifier/
