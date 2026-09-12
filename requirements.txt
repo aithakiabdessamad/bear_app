@@ -4,3 +4,4 @@ ipywidgets
 pillow
 torch
 torchvision
+fasttransform
